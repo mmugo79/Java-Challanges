@@ -2,9 +2,9 @@
 
 ### Student Info
 
-*Name: Moses Mugo
+* Name: Moses Mugo
 
-*Student No: 190027
+* Student No: 190027
  
 
 # List of Challenges
