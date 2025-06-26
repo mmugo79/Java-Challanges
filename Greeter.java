@@ -1,4 +1,4 @@
-public class Greeter {
+public class Greeter{
     void greet(){
         System.out.println("Hi there");
 
