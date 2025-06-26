@@ -1,3 +1,3 @@
-interface DataSource {
+interface DataSource{
     void execute();
 }
