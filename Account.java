@@ -1,4 +1,4 @@
-abstract class Account {
+abstract class Account{
     protected int id;
     protected String name;
     private DataSource myData;
