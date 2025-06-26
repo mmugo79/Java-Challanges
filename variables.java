@@ -3,7 +3,7 @@ class variables{
         double amount;
         double interest;
         
-        amount=1200.00;
+        amount=1200.00; 
         System.out.println("amount: "+ amount);
         
         interest = 3.0;
