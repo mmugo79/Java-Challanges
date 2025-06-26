@@ -1,14 +1,15 @@
-#Coding-Challenges-OOP-2
+# Coding-Challenges-OOP-2
 
-Student Info
+# Student Info
 
-Name: Moses Mugo
-Student No: 190027
+## Name: Moses Mugo
 
+## Student No: 190027
+ 
 
-#List of Challenges
+# List of Challenges
 
-#5 initial Coding Challenges(Intro to Java)
+# 5 initial Coding Challenges(Intro to Java)
 
 Class Bodies - Greeter Class
 Class Variables - ShowInterest Class
@@ -17,9 +18,9 @@ Scanner - InputExample Class
 Loop-While - HelloTillStop Class + MainHello Class
 
 
-#Abstract Classes and Interfaces
+# Abstract Classes and Interfaces
 
-They demonstrate how Abstract Classes and Interfaces work.
+## They demonstrate how Abstract Classes and Interfaces work.
 
 Account Class
 Admin Class
@@ -32,7 +33,7 @@ View Class
 Solid Principles
 
 
-#ARRAY CHALLENGES
+# ARRAY CHALLENGES
 
 ArrayChallenge Class - Declaring an array and filtering the elements
 OrderIDGenerator Class - creates ten random OrderIDs
