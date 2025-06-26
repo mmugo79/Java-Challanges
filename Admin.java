@@ -1,4 +1,4 @@
-class Admin extends Account {
+class Admin extends Account{
     private String AuthPassword;
 
     public Admin(int _id, String _name, String _password) {
