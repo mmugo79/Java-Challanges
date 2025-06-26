@@ -1,4 +1,4 @@
-# Coding-Challenges-OOP-2
+# Java-Challenges-OOP-2
 
 ### Student Info
 
