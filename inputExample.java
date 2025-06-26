@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class inputExample{
+class inputExample {
     Scanner scanner = new Scanner(System. in);
 
     public void readNameAndAge() {
