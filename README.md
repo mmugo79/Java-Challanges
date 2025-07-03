@@ -40,7 +40,7 @@
 * ArrayClearDemo Class - clear elements in a string array
 
 
-#EXCEPTION HANDLING
+# EXCEPTION HANDLING
 
 * Arithmetic.java(class)
 * import java.java(class)
