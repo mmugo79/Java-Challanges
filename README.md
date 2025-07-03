@@ -42,6 +42,6 @@
 
 #EXCEPTION HANDLING
 
-*Arithmetic.java(class)
-*import java.java(class)
-*File processor.java(Class)
+* Arithmetic.java(class)
+* import java.java(class)
+* File processor.java(Class)
